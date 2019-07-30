@@ -1,5 +1,5 @@
 name: env
-version: 0.0.1
+version: 1.8.0-beta
 description: GitOps Environment for this Environment 
 maintainers:
   - name: Team
